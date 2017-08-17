@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+.me-obj {
+    text-align: center;
+}
+
+.main-part h2 {
+    text-align: center;
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-size: 40px;
+}
+
+.main-part p,
+li {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+.my-exp p {
+    padding-left: 30px;
+}
